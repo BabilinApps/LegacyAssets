@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 54f8c509096f0044aadf3dfb7d46b9c6
+timeCreated: 1460090025
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AM134_25_bird_01
+    100002: AM134_25_bird_01_eyes
+    100004: AM134_25_bird_02
+    100006: AM134_25_bird_02_eyes
+    100008: AM134_25_bird_03
+    100010: AM134_25_bird_03_eyes
+    100012: AM134_25_bird_04
+    100014: AM134_25_bird_04_eyes
+    100016: BackBoard
+    100018: Cloth
+    100020: Cube
+    100022: Cube.001
+    100024: Group2132571311
+    100026: Group2132571319
+    100028: Group2132571320
+    100030: Group2132571322
+    100032: Group2132571323
+    100034: Layer:WALL
+    100036: Object078
+    100038: Painting 003
+    100040: Painting 004
+    100042: Painting 006
+    100044: PillowBasket
+    100046: PillowBasket2
+    100048: PillowLeft
+    100050: Rectangle003
+    100052: Rectangle008
+    100054: Rectangle061
+    100056: Rectangle757
+    100058: Rectangle757.001
+    100060: Rectangle758
+    100062: Rectangle764
+    100064: //RootNode
+    100066: Sheets
+    100068: Side Table
+    100070: SideTable
+    100072: Skull
+    100074: VRayLight001
+    100076: VRayLight002
+    100078: VRayLight003
+    100080: VRayLight004
+    100082: VRayPhysicalCamera001
+    100084: Wicker Basket
+    100086: wicker basket
+    100088: wood base
+    400000: AM134_25_bird_01
+    400002: AM134_25_bird_01_eyes
+    400004: AM134_25_bird_02
+    400006: AM134_25_bird_02_eyes
+    400008: AM134_25_bird_03
+    400010: AM134_25_bird_03_eyes
+    400012: AM134_25_bird_04
+    400014: AM134_25_bird_04_eyes
+    400016: BackBoard
+    400018: Cloth
+    400020: Cube
+    400022: Cube.001
+    400024: Group2132571311
+    400026: Group2132571319
+    400028: Group2132571320
+    400030: Group2132571322
+    400032: Group2132571323
+    400034: Layer:WALL
+    400036: Object078
+    400038: Painting 003
+    400040: Painting 004
+    400042: Painting 006
+    400044: PillowBasket
+    400046: PillowBasket2
+    400048: PillowLeft
+    400050: Rectangle003
+    400052: Rectangle008
+    400054: Rectangle061
+    400056: Rectangle757
+    400058: Rectangle757.001
+    400060: Rectangle758
+    400062: Rectangle764
+    400064: //RootNode
+    400066: Sheets
+    400068: Side Table
+    400070: SideTable
+    400072: Skull
+    400074: VRayLight001
+    400076: VRayLight002
+    400078: VRayLight003
+    400080: VRayLight004
+    400082: VRayPhysicalCamera001
+    400084: Wicker Basket
+    400086: wicker basket
+    400088: wood base
+    2300000: AM134_25_bird_01
+    2300002: AM134_25_bird_01_eyes
+    2300004: AM134_25_bird_02
+    2300006: AM134_25_bird_02_eyes
+    2300008: AM134_25_bird_03
+    2300010: AM134_25_bird_03_eyes
+    2300012: AM134_25_bird_04
+    2300014: AM134_25_bird_04_eyes
+    2300016: BackBoard
+    2300018: Cloth
+    2300020: Cube
+    2300022: Cube.001
+    2300024: Object078
+    2300026: Painting 003
+    2300028: Painting 004
+    2300030: Painting 006
+    2300032: PillowBasket
+    2300034: PillowBasket2
+    2300036: PillowLeft
+    2300038: Rectangle003
+    2300040: Rectangle008
+    2300042: Rectangle061
+    2300044: Rectangle757
+    2300046: Rectangle757.001
+    2300048: Rectangle758
+    2300050: Rectangle764
+    2300052: Sheets
+    2300054: Side Table
+    2300056: SideTable
+    2300058: Skull
+    2300060: wicker basket
+    2300062: wood base
+    3300000: AM134_25_bird_01
+    3300002: AM134_25_bird_01_eyes
+    3300004: AM134_25_bird_02
+    3300006: AM134_25_bird_02_eyes
+    3300008: AM134_25_bird_03
+    3300010: AM134_25_bird_03_eyes
+    3300012: AM134_25_bird_04
+    3300014: AM134_25_bird_04_eyes
+    3300016: BackBoard
+    3300018: Cloth
+    3300020: Cube
+    3300022: Cube.001
+    3300024: Object078
+    3300026: Painting 003
+    3300028: Painting 004
+    3300030: Painting 006
+    3300032: PillowBasket
+    3300034: PillowBasket2
+    3300036: PillowLeft
+    3300038: Rectangle003
+    3300040: Rectangle008
+    3300042: Rectangle061
+    3300044: Rectangle757
+    3300046: Rectangle757.001
+    3300048: Rectangle758
+    3300050: Rectangle764
+    3300052: Sheets
+    3300054: Side Table
+    3300056: SideTable
+    3300058: Skull
+    3300060: wicker basket
+    3300062: wood base
+    4300000: Rectangle757.001
+    4300002: SideTable
+    4300004: BackBoard
+    4300006: Side Table
+    4300008: Cube
+    4300010: Rectangle764
+    4300012: AM134_25_bird_03
+    4300014: AM134_25_bird_02
+    4300016: AM134_25_bird_04
+    4300018: AM134_25_bird_01_eyes
+    4300020: AM134_25_bird_01
+    4300022: AM134_25_bird_04_eyes
+    4300024: AM134_25_bird_02_eyes
+    4300026: AM134_25_bird_03_eyes
+    4300028: Rectangle061
+    4300030: Rectangle758
+    4300032: Rectangle757
+    4300034: Skull
+    4300036: Cube.001
+    4300038: PillowLeft
+    4300040: Sheets
+    4300042: Object078
+    4300044: wood base
+    4300046: Painting 006
+    4300048: wicker basket
+    4300050: PillowBasket2
+    4300052: PillowBasket
+    4300054: Cloth
+    4300056: Painting 004
+    4300058: Painting 003
+    4300060: Rectangle008
+    4300062: Rectangle003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: bde69a7deb588974a888796537c1394d
+timeCreated: 1460260255
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: hill-corner-high
+    100002: hill-corner-low
+    100004: //RootNode
+    100006: road-bridge-ramp
+    100008: road-corner-low
+    100010: road-crossing-high
+    100012: road-crossing-low
+    100014: road-end-low
+    100016: road-hill
+    100018: road-straight-low
+    100020: road-tjunction-low
+    100022: road-tunnel-entry
+    100024: road-tunnel-segment
+    400000: hill-corner-high
+    400002: hill-corner-low
+    400004: //RootNode
+    400006: road-bridge-ramp
+    400008: road-corner-low
+    400010: road-crossing-high
+    400012: road-crossing-low
+    400014: road-end-low
+    400016: road-hill
+    400018: road-straight-low
+    400020: road-tjunction-low
+    400022: road-tunnel-entry
+    400024: road-tunnel-segment
+    2300000: hill-corner-high
+    2300002: hill-corner-low
+    2300004: road-bridge-ramp
+    2300006: road-corner-low
+    2300008: road-crossing-high
+    2300010: road-crossing-low
+    2300012: road-end-low
+    2300014: road-hill
+    2300016: road-straight-low
+    2300018: road-tjunction-low
+    2300020: road-tunnel-entry
+    2300022: road-tunnel-segment
+    3300000: hill-corner-high
+    3300002: hill-corner-low
+    3300004: road-bridge-ramp
+    3300006: road-corner-low
+    3300008: road-crossing-high
+    3300010: road-crossing-low
+    3300012: road-end-low
+    3300014: road-hill
+    3300016: road-straight-low
+    3300018: road-tjunction-low
+    3300020: road-tunnel-entry
+    3300022: road-tunnel-segment
+    4300000: road-tunnel-entry
+    4300002: road-crossing-high
+    4300004: road-tunnel-segment
+    4300006: hill-corner-low
+    4300008: road-hill
+    4300010: hill-corner-high
+    4300012: road-bridge-ramp
+    4300014: road-end-low
+    4300016: road-tjunction-low
+    4300018: road-straight-low
+    4300020: road-corner-low
+    4300022: road-crossing-low
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
