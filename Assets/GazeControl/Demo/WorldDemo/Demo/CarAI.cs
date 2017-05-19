@@ -8,7 +8,7 @@ public class CarAI : MonoBehaviour ,  IPointerClickHandler , ISelectHandler , ID
 {
 
   
-    NavMeshAgent agent;
+    UnityEngine.AI.NavMeshAgent agent;
     public GameObject fire;
     float NavTime;
     float myTime;
@@ -18,7 +18,7 @@ public class CarAI : MonoBehaviour ,  IPointerClickHandler , ISelectHandler , ID
 
     // Use this for initialization
     void Start () {
-        agent = GetComponent<NavMeshAgent>();
+        agent = GetComponent<UnityEngine.AI.NavMeshAgent>();
         NavTime = Random.Range(10, 19);
         agent.SetDestination(RandomPosition());
 
@@ -57,8 +57,8 @@ public class CarAI : MonoBehaviour ,  IPointerClickHandler , ISelectHandler , ID
     {
         Vector3 randomDirection = Random.insideUnitSphere *300;
         randomDirection += transform.position;
-        NavMeshHit hit;
-        NavMesh.SamplePosition(randomDirection, out hit, 300, 1);
+        UnityEngine.AI.NavMeshHit hit;
+        UnityEngine.AI.NavMesh.SamplePosition(randomDirection, out hit, 300, 1);
         return hit.position;
     }
 
